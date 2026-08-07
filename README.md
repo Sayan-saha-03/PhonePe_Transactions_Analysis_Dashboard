@@ -76,3 +76,4 @@ This dashboard helps stakeholders to:
 - Support strategic business decisions using data-driven insights
 - 
 ### 📷 Dashboard Screenshot
+![Dashboard Preview](https://github.com/Sayan-saha-03/PhonePe_Transactions_Analysis_Dashboard/blob/main/Screenshot%202026-08-07%20231643.png)
