@@ -16,7 +16,7 @@ This project is an interactive Power BI dashboard built using PhonePe transactio
 ### 📂 Data Source
 
 The dashboard uses a Microsoft Excel (.xlsx) dataset containing PhonePe payment transaction records.
-(Dataset is included in this repository)
+- Dataset: (https://github.com/Sayan-saha-03/PhonePe_Transactions_Analysis_Dashboard/blob/main/Phonepe-Final-Dataset.xlsx)
 
 ### ✨ Features & Highlights
 #### 📈 Executive Dashboard
